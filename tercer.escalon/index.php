@@ -1,10 +1,10 @@
-Ôªø<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
-    <title>Tercer escal√≥n -:- Inicio</title>
+    <title>Tercer escalÛn -:- Inicio</title>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" integrity="sha384-v8BU367qNbs/aIZIxuivaU55N5GPF89WBerHoGA4QTcbUjYiLQtKdrfXnqAcXyTv" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -31,8 +31,8 @@
                     <div class="carousel-item active">
                         
                         <div class="carousel-caption slider1 ">
-                            <p><span>Soluciones a medida</span> de tecnolog√≠a educativa para los centros de informaci√≥n de Iberoam√©rica.</p>
-                            <button onclick="email()">PLAT√çCANOS TU PROYECTO</button>
+                            <p><span>Soluciones a medida</span> de tecnologÌaSSS educativa para los centros de informaciÛn de IberoamÈrica.</p>
+                            <button onclick="email()">PLATÕCANOS TU PROYECTO</button>
                         </div>
                         <img src="img/slide1.png" class="d-none d-sm-block w-100 slider2" alt="...">
                     </div>
@@ -40,11 +40,11 @@
                         <img src="img/slide2.png" class="d-none d-md-block w-100 slider2" alt="...">
                         <div class="carousel-caption d-md-block">
                             <h5>BiblioTechnia</h5>
-                            <p class="text">Plataforma en l√≠nea de libros digitales en espa√±ol</p>
-                            <h3>CARACTER√çSTICAS POPULARES</h3>
+                            <p class="text">Plataforma en lÌnea de libros digitales en espaÒol</p>
+                            <h3>CARACTERÕSTICAS POPULARES</h3>
                             <ul>
                                 <li><img src="img/list.png" alt="">Publicaciones de calidad mundiales</li>
-                                <li><img src="img/list.png" alt="">M√°s de 20,000 t√≠tulos en espa√±ol</li>
+                                <li><img src="img/list.png" alt="">M·s de 20,000 tÌtulos en espaÒol</li>
                                 <li><img src="img/list.png" alt="">Prestigiosas editoriales nacionales e internacionales</li>
                             </ul>
                             <button id="listado">SOLICITA EL LISTADO</button>
@@ -55,7 +55,7 @@
                         <div class="carousel-caption d-md-block">
                             <h5>Timone</h5>
                             <p class="text">Plataforma de servicios bibliotecarios</p>
-                            <h3>CARACTER√çSTICAS POPULARES</h3>
+                            <h3>CARACTERÕSTICAS POPULARES</h3>
                             <ul>
                                 <li><img src="img/list.png" alt="">Acceso remoto</li>
                                 <li><img src="img/list.png" alt="">Generador de indicadores</li>
@@ -67,13 +67,13 @@
                     <div class="carousel-item animated zoomInUp slow">
                         <img src="img/slide4.png" class="d-none d-md-block w-100 slider2" alt="...">
                         <div class="carousel-caption d-md-block">
-                            <h5>L√©ctimus</h5>
+                            <h5>LÈctimus</h5>
                             <p class="text">Programa de lectura sociointeractiva</p>
-                            <h3>CARACTER√çSTICAS POPULARES</h3>
+                            <h3>CARACTERÕSTICAS POPULARES</h3>
                             <ul>
                                 <li><img src="img/list.png" alt="">Disponibilidad 24/7</li>
                                 <li><img src="img/list.png" alt="">Accesibilidad desde cualquier equipo</li>
-                                <li><img src="img/list.png" alt="">Evaluaciones con retroalimentaci√≥n en tiempo real</li>
+                                <li><img src="img/list.png" alt="">Evaluaciones con retroalimentaciÛn en tiempo real</li>
                             </ul>
                             <button onclick="email()">SOLICITA UN TALLER</button>
                         </div>
@@ -82,14 +82,14 @@
                         <img src="img/slide5.png" class="d-none d-md-block w-100 slider4" alt="...">
                         <div class="carousel-caption d-md-block slider3">
                             <h5>Third slide label</h5>
-                            <p class="text">Experiencias pedag√≥gicas que integran t√©cnicas de exposici√≥n museogr√°fica</p>
-                            <h3>CARACTER√çSTICAS POPULARES</h3>
+                            <p class="text">Experiencias pedagÛgicas que integran tÈcnicas de exposiciÛn museogr·fica</p>
+                            <h3>CARACTERÕSTICAS POPULARES</h3>
                             <ul>
                                 <li><img src="img/list.png" alt="">Publicaciones de calidad mundial</li>
-                                <li><img src="img/list.png" alt="">M√°s de 20,000 t√≠tulos en espa√±ol</li>
+                                <li><img src="img/list.png" alt="">M·s de 20,000 tÌtulos en espaÒol</li>
                                 <li><img src="img/list.png" alt="">Prestigiosas editoriales nacionales e internacionales</li>
                             </ul>
-                            <button onclick="email()">SOLICITA UNA PL√ÅTICA</button>
+                            <button onclick="email()">SOLICITA UNA PL¡TICA</button>
                         </div>
                     </div>
                 </div>
@@ -113,21 +113,21 @@
                 <div class="row">
                     <div class="col-md-4">
                         <img src="img/perfil1.png" alt="" class="img-fluid">
-                        <h5>Dr. Ennio Vivaldi V√©jar <br> Rector Universidad de Chile</h5>
+                        <h5>Dr. Ennio Vivaldi VÈjar <br> Rector Universidad de Chile</h5>
                         <div class="separador"></div>
-                        <p>‚ÄúTimone ha sido un valioso recurso para nuestra biblioteca‚Äù</p>
+                        <p>ìTimone ha sido un valioso recurso para nuestra bibliotecaî</p>
                     </div>
                     <div class="col-md-4">
                         <img src="img/perfil2.png" alt="" class="img-fluid">
-                        <h5>Dr. Alejandro Gonz√°lez √Ålvarez <br> Rector Universidad La Salle</h5>
+                        <h5>Dr. Alejandro Gonz·lez ¡lvarez <br> Rector Universidad La Salle</h5>
                         <div class="separador"></div>
-                        <p>‚ÄúL√©ctimus ha sido un parteaguas en la construcci√≥n de aptitudes de nuestra comunidad estudiantil‚Äù</p>
+                        <p>ìLÈctimus ha sido un parteaguas en la construcciÛn de aptitudes de nuestra comunidad estudiantilî</p>
                     </div>
                     <div class="col-md-4">
                         <img src="img/perfil3.png" alt="" class="img-fluid">
-                        <h5>Dr. Mario Alberto Rodr√≠guez <br> Rector del IPN</h5>
+                        <h5>Dr. Mario Alberto RodrÌguez <br> Rector del IPN</h5>
                         <div class="separador"></div>
-                        <p>‚ÄúBiblioTechnia se ha convertido en una plataforma fundamental en el d√≠a a d√≠a de nuestros estudiantes.‚Äù</p>
+                        <p>ìBiblioTechnia se ha convertido en una plataforma fundamental en el dÌa a dÌa de nuestros estudiantes.î</p>
                     </div>
                 </div>
             </div>
